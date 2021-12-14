@@ -47,7 +47,13 @@ O Game consiste em controlar nosso personagem (Robozitô) durante a fase, sem se
 
 O projeto, por hora, possui as fases 1 e 2 elaboradas:
 
+Fase 1:
 
+![run-and-gun-1](https://user-images.githubusercontent.com/8903852/146097219-ff5cbd2d-35cb-4055-9c6a-41403ac9e47c.png)
+
+Fase 2:
+
+![run-and-gun-2](https://user-images.githubusercontent.com/8903852/146097225-cb723175-d81c-4c23-8f64-823f7bfa426a.png)
 
 ### Construído com
 
@@ -74,11 +80,11 @@ O único pré-requisito do projeto é ter o Construct 2 instalado localmente ou 
 
 3. Para rodar o projeto, clique na botão `Run Layout`:
 
-<img src="img/runLayout.png" width="50%">
+![image](https://user-images.githubusercontent.com/8903852/130146147-a25e06c0-4a95-444d-b165-4d1bcc2d35c6.png)
 
 4. Caso queira rodar no modo debug, clique no botão `Debug Layout`:
 
-<img src="img/runDebug.png" width="50%">
+![image](https://user-images.githubusercontent.com/8903852/130146179-da126d89-13ae-4957-a102-619cdbe0238f.png)
 
 Seu navegador de preferência será aberto e o jogo será iniciado pelo navegador, geralmente no endereço `http://localhost:50000/`. Mas isso pode variar dependendo da configuração da sua máquina e/ou do projeto.
 
